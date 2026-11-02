@@ -1,6 +1,5 @@
 # Project 1 — BFSI Credit Risk Analytics
 
-**Tools allocated to this project:** SQL + Power BI (DAX). No Python or Excel analysis is required for this project.
 
 ## Run step by step
 1. Install MySQL 8+ and MySQL Workbench.
